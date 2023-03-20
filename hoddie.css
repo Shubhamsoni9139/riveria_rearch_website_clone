@@ -1,0 +1,145 @@
+body{
+    background-color: black;
+}
+.back-button{
+    color: aliceblue;
+
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h2:hover{
+    color: red;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+h1:hover{
+    color: red;
+}
+h1
+{
+    color: aliceblue;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.cantiner{
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    margin: 5px;
+}
+
+.cantainer-item{
+    display: flex;
+    width:  400px;
+    height: 500px;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    color: aliceblue;
+    text-align: center;
+    background-color: #171717;
+    margin: 40px;
+}
+.combos{
+    display: flex;
+    margin: 5px; 
+    flex-direction: row;
+}
+.combos-item{
+    padding: 10px;
+    display: flex;
+    width:  600px;
+    height: 400px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color: aliceblue;
+    text-align: center;
+    background-color: #171717;
+    margin: 10px;
+}
+.reviera-logo{
+    display: flex;
+    margin: 5px; 
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(251, 0, 0);
+
+}
+.logo-rev{
+    padding: 10px;
+    display: flex;
+    width:  600px;
+    height: 200px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    color:red;
+    text-align: center;
+    margin: 10px;
+}
+.hoodie{
+    height: 450px;
+    width: 350px;
+}
+.MERCH{
+    font-size: 100px;
+}
+.combos-hoodie{
+    height: 300px;
+    width: 185px;
+}
+.combo-text-color{
+    color: red;
+}
+.description{
+    color: aliceblue;
+}
+.logo{
+    height: 150px;
+    width: 600px;
+
+}
+.buy-button{
+    height: 25px;
+    width: 60px;
+    color: white;
+    background-color: red;
+    display: inline-block;
+    border: 10px;
+    border-color: aliceblue;
+}
+.hoodie-description-1{
+    font-size: 40px;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+}
+.hoodie-buy-cantainer{
+    display: flex;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    margin: 5px; 
+}
+.hoodie-buy{
+    display: flex;
+    height: 400px;
+    width: 800px;
+    background-color: red;
+    border: dotted;
+    border-color: aliceblue;
+    border-radius: 50px;
+    text-align: center;
+
+
+}
+.order-button{
+    align-items: center;
+    text-align: center;
+}
+.order-summary{
+    text-align: center;
+}
+
